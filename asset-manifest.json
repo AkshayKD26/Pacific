@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Pacific/static/css/main.468965d0.chunk.css",
+    "main.js": "/Pacific/static/js/main.d5f8afe8.chunk.js",
+    "main.js.map": "/Pacific/static/js/main.d5f8afe8.chunk.js.map",
+    "runtime-main.js": "/Pacific/static/js/runtime-main.b15d29b6.js",
+    "runtime-main.js.map": "/Pacific/static/js/runtime-main.b15d29b6.js.map",
+    "static/css/2.8aa5a7f8.chunk.css": "/Pacific/static/css/2.8aa5a7f8.chunk.css",
+    "static/js/2.7ad2da55.chunk.js": "/Pacific/static/js/2.7ad2da55.chunk.js",
+    "static/js/2.7ad2da55.chunk.js.map": "/Pacific/static/js/2.7ad2da55.chunk.js.map",
+    "index.html": "/Pacific/index.html",
+    "precache-manifest.8197f99354b77537e4e2faa84b663f6f.js": "/Pacific/precache-manifest.8197f99354b77537e4e2faa84b663f6f.js",
+    "service-worker.js": "/Pacific/service-worker.js",
+    "static/css/2.8aa5a7f8.chunk.css.map": "/Pacific/static/css/2.8aa5a7f8.chunk.css.map",
+    "static/css/main.468965d0.chunk.css.map": "/Pacific/static/css/main.468965d0.chunk.css.map",
+    "static/js/2.7ad2da55.chunk.js.LICENSE.txt": "/Pacific/static/js/2.7ad2da55.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b15d29b6.js",
+    "static/css/2.8aa5a7f8.chunk.css",
+    "static/js/2.7ad2da55.chunk.js",
+    "static/css/main.468965d0.chunk.css",
+    "static/js/main.d5f8afe8.chunk.js"
+  ]
+}
